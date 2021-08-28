@@ -7,6 +7,11 @@
 [![Youtube](./resources/icons/youtube.svg)](https://www.youtube.com/channel/UCGPux_yPhvm71SCI6EBSmEA)
 
 ## Tools
-
+[![Visual Studio Code](./resources/icons/vscode.svg)](https://github.com/microsoft/vscode)
+[![cmder](./resources/icons/terminal.svg)](https://cmder.net/)
 
 ## Languages
+[![Python](./resources/icons/python.svg)](https://www.python.org/)
+[![JavaScript](./resources/icons/javascript.svg)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+[![HTML](./resources/icons/html.svg)](https://developer.mozilla.org/ru/docs/Web/HTML)
+[![CSS](./resources/icons/css.svg)](https://developer.mozilla.org/ru/docs/Web/CSS)
