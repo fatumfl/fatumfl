@@ -1,4 +1,1 @@
-## Credly Badges
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bbf15b83-63fb-43eb-9fcf-b12266e7a9bc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8969f071-4353-4205-ad66-b514b0c524c5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e79d4a8c-daca-4f8a-a9fd-5e22c6dffc40" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
