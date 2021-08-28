@@ -15,3 +15,11 @@
 [![JavaScript](./resources/icons/javascript.svg)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 [![HTML](./resources/icons/html.svg)](https://developer.mozilla.org/ru/docs/Web/HTML)
 [![CSS](./resources/icons/css.svg)](https://developer.mozilla.org/ru/docs/Web/CSS)
+
+
+## Badges
+![CCNA R&S](./resources/badges/cisco-rs.png)
+![Huawei R&S](./resources/badges/hcia-rs.png)
+![Huawei WLAN](./resources/badges/hcia-wlan.jpg)
+![Huawei R&S](./resources/badges/hcip-rs.jpg)
+![Cisco 200](./resources/badges/cisco-200.png)
