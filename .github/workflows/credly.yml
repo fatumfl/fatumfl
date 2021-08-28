@@ -8,6 +8,7 @@ jobs:
     name: Update Readme with Credly Badges
     runs-on: ubuntu-latest
     steps:
-      - name: Badges - Readme
-        uses: fatumfl/fatumfl@main
+      - name: Credly Badges
+        uses: pemtajo/badge-readme@main
+        with:
           CREDLY_USER: fatum
