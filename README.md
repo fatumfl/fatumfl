@@ -19,7 +19,7 @@
 
 ## Badges
 <p>
-<img src="./resources/badges/cisco-rs.png" alt="CCNA R&S" width="180"/>
+<img src="./resources/badges/cisco-rs.png" alt="CCNA R&S" width="150"/>
 <img src="./resources/badges/hcia-rs.png" alt="HCIA R&S" width="150"/>
 <img src="./resources/badges/hcia-wlan.jpg" alt="HCIA WLAN" width="150"/>
 <img src="./resources/badges/hcip-rs.jpg" alt="HCIP R&S" width="150"/>
