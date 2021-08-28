@@ -18,8 +18,8 @@
 
 
 ## Badges
-![CCNA R&S](./resources/badges/cisco-rs.png)
-![Huawei R&S](./resources/badges/hcia-rs.png)
-![Huawei WLAN](./resources/badges/hcia-wlan.jpg)
-![Huawei R&S](./resources/badges/hcip-rs.jpg)
-![Cisco 200](./resources/badges/cisco-200.png)
+<img src="./resources/badges/cisco-rs.png" alt="CCNA R&S" width="200"/>
+<img src="./resources/badges/hcia-rs.png" alt="HCIA R&S" width="200"/>
+<img src="./resources/badges/hcia-wlan.jpg" alt="HCIA WLAN" width="200"/>
+<img src="./resources/badges/hcip-rs.jpg" alt="HCIP R&S" width="200"/>
+<img src="./resources/badges/cisco-200.png" alt="Cisco 200" width="200"/>
