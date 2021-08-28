@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   data-name="Layer 1"
+   viewBox="0 0 52.264809 52.264809"
+   x="0px"
+   y="0px"
+   version="1.1"
+   id="svg806"
+   sodipodi:docname="terminal.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   width="52.264809"
+   height="52.264809"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs810" />
+  <sodipodi:namedview
+     id="namedview808"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:current-layer="svg806"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <title
+     id="title792">03</title>
+  <rect
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
+     id="rect230"
+     width="52.264809"
+     height="52.264809"
+     x="0"
+     y="0" />
+  <g
+     data-name="Group"
+     id="g800"
+     transform="matrix(0.72966664,0,0,0.72966664,-10.350928,-10.350928)"
+     style="stroke-width:1.37049">
+    <path
+       data-name="Compound Path"
+       d="m 84.8,27.2 a 12,12 0 0 0 -12,-12 H 27.2 a 12,12 0 0 0 -12,12 v 45.6 a 12,12 0 0 0 12,12 h 45.6 a 12,12 0 0 0 12,-12 z m -4,45.7 a 8,8 0 0 1 -8,8 H 27.2 a 8,8 0 0 1 -8,-8 V 27.2 a 8,8 0 0 1 8,-8 h 45.6 a 8,8 0 0 1 8,8 z"
+       id="path794"
+       style="stroke-width:1.37049" />
+    <path
+       data-name="Path"
+       d="m 34.2,38.8 a 2,2 0 0 0 -2.8,2.8 l 12,12 -12,12 a 2,2 0 1 0 2.8,2.8 L 47.6,55 a 2,2 0 0 0 0,-2.8 z"
+       id="path796"
+       style="stroke-width:1.37049" />
+    <path
+       data-name="Path"
+       d="M 67.3,63.8 H 50.7 a 2,2 0 1 0 0,4 h 16.6 a 2,2 0 1 0 0,-4 z"
+       id="path798"
+       style="stroke-width:1.37049" />
+  </g>
+  <metadata
+     id="metadata979">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>03</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
