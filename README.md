@@ -18,8 +18,8 @@
 
 
 ## Badges
-<img src="./resources/badges/cisco-rs.png" alt="CCNA R&S" width="200"/>
-<img src="./resources/badges/hcia-rs.png" alt="HCIA R&S" width="200"/>
-<img src="./resources/badges/hcia-wlan.jpg" alt="HCIA WLAN" width="200"/>
-<img src="./resources/badges/hcip-rs.jpg" alt="HCIP R&S" width="200"/>
-<img src="./resources/badges/cisco-200.png" alt="Cisco 200" width="200"/>
+<img src="./resources/badges/cisco-rs.png" alt="CCNA R&S" width="100"/>
+<img src="./resources/badges/hcia-rs.png" alt="HCIA R&S" width="100"/>
+<img src="./resources/badges/hcia-wlan.jpg" alt="HCIA WLAN" width="100"/>
+<img src="./resources/badges/hcip-rs.jpg" alt="HCIP R&S" width="100"/>
+<img src="./resources/badges/cisco-200.png" alt="Cisco 200" width="100"/>
