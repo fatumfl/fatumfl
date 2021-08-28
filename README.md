@@ -7,3 +7,6 @@
 [![Youtube](./resources/icons/youtube.svg)](https://www.youtube.com/channel/UCGPux_yPhvm71SCI6EBSmEA)
 
 ## Tools
+
+
+## Languages
