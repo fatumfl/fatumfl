@@ -28,7 +28,7 @@
 <img src="./resources/badges/cisco-200.png" alt="Cisco 200" width="150"/>
 </p>
 
-## Research Profiles
+## Researcher Profiles
 [Science Index](https://www.elibrary.ru/author_items.asp?authorid=746015)\
 [Google Scholar](https://scholar.google.com/citations?user=lBr3X9YAAAAJ&hl=ru)\
 [Research Gate](https://www.researchgate.net/profile/Lenar-M-Faskhutdinov)\
