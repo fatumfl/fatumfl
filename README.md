@@ -8,7 +8,9 @@
 
 ## Favorite Tools
 [![Visual Studio Code](./resources/icons/vscode.svg)](https://github.com/microsoft/vscode)
-[![cmder](./resources/icons/terminal.svg)](https://cmder.net/)
+[![cmder](./resources/icons/terminal.svg)](https://cmder.net)
+[![Draw.io](./resources/icons/draw-io.svg)](https://app.diagrams.net)
+[![Keypirinha](./resources/icons/keypirinha.svg)](https://keypirinha.com)
 
 ## Favorite Languages
 [![Python](./resources/icons/python.svg)](https://www.python.org/)
