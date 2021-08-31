@@ -13,7 +13,7 @@
 [![Draw.io](./resources/icons/draw-io.svg)](https://app.diagrams.net)
 [![Keypirinha](./resources/icons/keypirinha.svg)](https://keypirinha.com)
 
-## Favorite Languages
+## Favourite Languages
 [![Python](./resources/icons/python.svg)](https://www.python.org/)
 [![JavaScript](./resources/icons/javascript.svg)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 [![HTML](./resources/icons/html.svg)](https://developer.mozilla.org/ru/docs/Web/HTML)
