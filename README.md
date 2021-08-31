@@ -48,7 +48,6 @@
 ![](https://img.shields.io/badge/Zabbix-green)
 ![](https://img.shields.io/badge/Windows-green)
 ![](https://img.shields.io/badge/Linux-green)
-![](https://img.shields.io/badge/ITIL-blue)
-![](https://img.shields.io/badge/ITSM-blue)
+![](https://img.shields.io/badge/ITIL|ITSM-blue)
 ![](https://img.shields.io/badge/edTech-blue)
 ![](https://img.shields.io/badge/HLD|LLD-blue)
