@@ -32,7 +32,7 @@
 
 
 <details>
-  <summary>Researcher Profiles</summary>
+  <summary>Researcher Profiles</summary><h2></h2>
   
 📜 [ORCID](https://orcid.org/0000-0001-7983-462X?lang=en)\
 📜 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56586192200)\
