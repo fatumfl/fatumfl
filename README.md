@@ -42,6 +42,7 @@
 ![](https://img.shields.io/badge/Huawei-R%26S-red)
 ![](https://img.shields.io/badge/Huawei-WLAN-red)
 ![](https://img.shields.io/badge/Cisco-ISE-red)
+![](https://img.shields.io/badge/VMWare-ESXi-red)
 
 ![](https://img.shields.io/badge/Python-green)
 ![](https://img.shields.io/badge/Zabbix-green)
