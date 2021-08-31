@@ -7,7 +7,7 @@
 [![WebSite](./resources/icons/web.svg)](https://fatumfl.github.io/)
 [![Youtube](./resources/icons/youtube.svg)](https://www.youtube.com/channel/UCGPux_yPhvm71SCI6EBSmEA)
 
-## Favorite Tools
+## Favourite Tools
 [![Visual Studio Code](./resources/icons/vscode.svg)](https://github.com/microsoft/vscode)
 [![cmder](./resources/icons/terminal.svg)](https://cmder.net)
 [![Draw.io](./resources/icons/draw-io.svg)](https://app.diagrams.net)
