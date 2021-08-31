@@ -30,7 +30,7 @@
 </p>
 
 <details>
-## Researcher Profiles
+<summary><h2>Researcher Profiles</h2></summary>
 📜 [ORCID](https://orcid.org/0000-0001-7983-462X?lang=en)\
 📜 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56586192200)\
 📜 [Science Index](https://www.elibrary.ru/author_items.asp?authorid=746015)\
