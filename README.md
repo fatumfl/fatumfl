@@ -58,3 +58,10 @@
 📜 [Web of Science](https://publons.com/researcher/1907695/lenar-m-faskhutdinov/)
 
 </details>
+
+<details>
+  <summary>Public Gists</summary>
+ 
+👋[Hello, World!](https://gist.github.com/fatumfl/f13fa0df7cc2c4522f0fd419a8ac70af)
+  
+</details>
