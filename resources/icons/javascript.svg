@@ -6,7 +6,7 @@
    y="0px"
    id="svg274"
    sodipodi:docname="javascript.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    width="52.264809"
    height="52.264809"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -31,7 +31,9 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <title
      id="title254">30 -Javascript- (Outline)</title>
   <desc
@@ -50,28 +52,28 @@
      fill-rule="evenodd"
      id="g268"
      transform="matrix(0.84724292,0,0,0.84724292,0.71511679,0.71511662)"
-     style="stroke:none">
+     style="stroke:none;fill:#e25563">
     <g
        transform="translate(-1200,-570)"
        fill="#000000"
        id="g266"
-       style="stroke:none;stroke-width:1.60483">
+       style="stroke:none;stroke-width:1.60483;fill:#e25563">
       <g
          transform="translate(1200,570)"
          id="g264"
-         style="stroke:none;stroke-width:1.1803">
+         style="stroke:none;stroke-width:1.1803;fill:#e25563">
         <path
            d="M 2,58 H 58 V 2 H 2 Z m 57,2 H 1 C 0.447,60 0,59.552 0,59 V 1 C 0,0.448 0.447,0 1,0 h 58 c 0.553,0 1,0.448 1,1 v 58 c 0,0.552 -0.447,1 -1,1 z"
            id="path258"
-           style="stroke:none;stroke-width:1.1803" />
+           style="stroke:none;stroke-width:1.1803;fill:#e25563" />
         <path
            d="m 46,55 c -4.963,0 -9,-4.038 -9,-9 0,-0.552 0.447,-1 1,-1 0.553,0 1,0.448 1,1 0,3.86 3.141,7 7,7 3.859,0 7,-3.14 7,-7 0,-3.86 -3.141,-7 -7,-7 -4.963,0 -9,-4.038 -9,-9 0,-4.962 4.037,-9 9,-9 4.963,0 9,4.038 9,9 0,0.552 -0.447,1 -1,1 -0.553,0 -1,-0.448 -1,-1 0,-3.86 -3.141,-7 -7,-7 -3.859,0 -7,3.14 -7,7 0,3.86 3.141,7 7,7 4.963,0 9,4.038 9,9 0,4.962 -4.037,9 -9,9"
            id="path260"
-           style="stroke:none;stroke-width:1.1803" />
+           style="stroke:none;stroke-width:1.1803;fill:#e25563" />
         <path
            d="m 25,55 c -4.963,0 -9,-4.038 -9,-9 0,-0.552 0.447,-1 1,-1 0.553,0 1,0.448 1,1 0,3.86 3.141,7 7,7 3.859,0 7,-3.14 7,-7 V 22 c 0,-0.552 0.447,-1 1,-1 0.553,0 1,0.448 1,1 v 24 c 0,4.962 -4.037,9 -9,9"
            id="path262"
-           style="stroke:none;stroke-width:1.1803" />
+           style="stroke:none;stroke-width:1.1803;fill:#e25563" />
       </g>
     </g>
   </g>

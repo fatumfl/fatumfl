@@ -7,7 +7,7 @@
    version="1.1"
    id="svg343"
    sodipodi:docname="youtube.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    width="52.264809"
    height="52.264809"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -32,28 +32,23 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <title
      id="title333">1-01</title>
-  <rect
-     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1"
-     id="rect230"
-     width="52.264809"
-     height="52.264809"
-     x="0"
-     y="0" />
   <g
      id="g480"
      transform="matrix(1.1660839,0,0,1.1660839,7.4925546,7.4808461)"
-     style="stroke-width:0.857571">
+     style="stroke-width:0.857571;fill:#dc3545">
     <path
        d="M 29.846994,31.069991 H 2.1668487 A 8.0380569,8.0380569 0 0 1 -5.9150522,23.046549 V 8.958027 A 8.0380569,8.0380569 0 0 1 2.1230047,0.91997003 H 29.846994 A 8.0380569,8.0380569 0 0 1 37.885051,8.958027 v 14.073907 a 8.0380569,8.0380569 0 0 1 -8.038057,8.038057 z M 2.1668487,3.8575145 A 5.1151272,5.1151272 0 0 0 -2.9921224,8.958027 v 14.073907 a 5.1151272,5.1151272 0 0 0 5.1151271,5.115127 H 29.846994 a 5.1151272,5.1151272 0 0 0 5.115127,-5.115127 V 8.958027 A 5.1151272,5.1151272 0 0 0 29.846994,3.8428998 H 2.1668487 Z"
        id="path335"
-       style="stroke-width:0.857571" />
+       style="stroke-width:0.857571;fill:#dc3545" />
     <path
        d="M 10.161062,23.660364 V 8.3442117 L 23.314246,16.002288 Z M 13.083991,13.43011 v 5.1882 l 4.384395,-2.616022 z"
        id="path337"
-       style="stroke-width:0.857571" />
+       style="stroke-width:0.857571;fill:#dc3545" />
   </g>
   <metadata
      id="metadata516">
