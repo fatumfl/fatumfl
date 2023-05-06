@@ -26,7 +26,7 @@
 <img src="./resources/badges/hcip-wlan.png" alt="HCIP WLAN" width="150"/>
 <img src="./resources/badges/hcie-rs.png" alt="HCIE R&S" width="150"/>
 <img src="./resources/badges/cisco-200.png" alt="Cisco 200" width="150"/>
-<img src="./resources/badges/camp-2021.jpeg" alt="HCIE CAMP" width="150"/>
+<img src="./resources/badges/camp-2021.png" alt="HCIE CAMP" width="150"/>
 </p>
 
 
