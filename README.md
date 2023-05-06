@@ -55,7 +55,7 @@
 📜 [Science Index](https://www.elibrary.ru/author_items.asp?authorid=746015)\
 📜 [Research Gate](https://www.researchgate.net/profile/Lenar-M-Faskhutdinov)\
 📜 [Google Scholar](https://scholar.google.com/citations?user=lBr3X9YAAAAJ&hl=ru)\
-📜 [Web of Science](https://publons.com/researcher/1907695/lenar-m-faskhutdinov/)
+📜 [Web of Science](https://www.webofscience.com/wos/author/record/1559248)
 
 </details>
 
