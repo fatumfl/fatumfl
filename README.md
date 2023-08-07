@@ -7,7 +7,7 @@
 [![Telegram](./resources/icons/telegram.svg)](https://t.me/sysintegratie)
 [![WebSite](./resources/icons/web.svg)](https://fatumfl.github.io/)
 [![Youtube](./resources/icons/youtube.svg)](https://www.youtube.com/channel/UCGPux_yPhvm71SCI6EBSmEA)
---!>
+-->
 
 ## Favourite Tools
 [![Visual Studio Code](./resources/icons/vscode.svg)](https://github.com/microsoft/vscode)
